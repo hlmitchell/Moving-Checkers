@@ -1,5 +1,9 @@
 //Hannah Mitchell
 //May 3rd 2018
+//Homework assignment 5:
+//Two checkers move in opposite directions along a board
+//The stop and go button affects their movement
+//A mouse press and release affects their movement
 
 import java.awt.*;
 import java.applet.*; 
